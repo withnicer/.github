@@ -1,6 +1,6 @@
 # Nicer Travel on GitHub
 
-This repository contains the public [Nicer Travel organization profile](https://github.com/nicer-travel).
+This repository contains the public [Nicer Travel organization profile](https://github.com/withnicer).
 
 - [Profile README](profile/README.md)
 - [Brand assets](profile/assets)

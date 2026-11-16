@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.nicer.travel/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicer-travel/.github/main/profile/assets/nicer-wordmark-white.svg">
-      <img src="https://raw.githubusercontent.com/nicer-travel/.github/main/profile/assets/nicer-wordmark.svg" alt="Nicer" width="172">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/withnicer/.github/main/profile/assets/nicer-wordmark-white.svg">
+      <img src="https://raw.githubusercontent.com/withnicer/.github/main/profile/assets/nicer-wordmark.svg" alt="Nicer" width="172">
     </picture>
   </a>
 </p>
